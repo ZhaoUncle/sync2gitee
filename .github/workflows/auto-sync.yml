@@ -27,4 +27,4 @@ jobs:
         timeout: 600
         debug: true
         force_update: true
-        white_list: "community.applications,Unraid"
+        white_list: "community.applications,Unraid,image"
